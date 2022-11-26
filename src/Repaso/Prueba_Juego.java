@@ -9,6 +9,5 @@ public class Prueba_Juego {
         juego1.jugar();
         juego1.finalizar();
 
-
     }
 }
