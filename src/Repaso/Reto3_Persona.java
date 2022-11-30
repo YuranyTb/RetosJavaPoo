@@ -20,12 +20,12 @@ public class Reto3_Persona {
     }
 
     public Reto3_Persona(String tipoDocumento, int documento, String nombre, String apellido,
-            float peso, float estatura, int edad, String genero) {
+        float peso, float estatura, int edad, String genero) {
 
         this.tipoDocumento = tipoDocumento;
         this.documento = documento;
         this.nombre = nombre;
-        this.apellido = apellido;
+        this.apellido = apellido; 
         this.peso = peso;
         this.estatura = estatura;
         this.edad = edad;

@@ -9,5 +9,11 @@ public class Prueba_Juego {
         juego1.jugar();
         juego1.finalizar();
 
+        Reto6_PiedraPapelyTijera juego2=new Reto6_PiedraPapelyTijera();
+
+        juego2.iniciar();
+        juego2.jugar();
+        juego2.finalizar();
+
     }
 }

@@ -1,4 +1,4 @@
-package Repaso;
+ package Repaso;
 
 import java.util.Scanner;
 
@@ -19,7 +19,6 @@ public class Reto4_Persona2 {
         
     }
 
-    
     public Reto4_Persona2(String tipoDocumento, int documento, String nombre, String apellido,
     float peso, float estatura, int edad, String genero) {
 
